@@ -4,6 +4,8 @@
 
 A schema analyzer for MongoDB
 
+https://medium.com/@klishch/how-to-run-1000s-of-aws-lambda-functions-each-minute-1658cedec7d2
+
 ## Technologies & Languages
 
 - Python
